@@ -98,7 +98,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/Jacthon2001/SourceVr",
+        "value": "https://github.com/IamMr7/VR-VIP.git",
         "required": true
       }
     },
